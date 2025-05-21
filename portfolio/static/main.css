@@ -1,0 +1,23 @@
+body{   
+    background-color: #080707 !important;
+    color: #fff !important;
+}
+
+.bg-black, .card.bg-black, .card.bg-black .card-body {
+    background-color: #181818 !important;
+    color: #fff !important;
+}
+
+.card-project {
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+    transition: border 0.2s, box-shadow 0.2s;
+    border: 1px solid #222;
+    margin-bottom: 1.5rem;
+}
+
+.card-project:hover{
+    border: 1px solid #fff;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+    cursor: pointer;
+}
