@@ -46,3 +46,4 @@ Este proyecto es un portafolio web desarrollado con Django y Bootstrap. Permite 
 
 ---
 Desarrollado por Argenis.M
+Gracias por visitar este repo!!
